@@ -2,8 +2,6 @@
 ## [Thrift](https://thrift.apache.org/tutorial/py.html) explained clearly avoiding the division error
 
 
-GitRepoXMLParser helps you visualize your AOSP manifest files that is fed for [repo](https://source.android.com/docs/setup/develop/repo) tool
-[Rich](https://pypi.org/project/rich/)-powered visualization.
 
 ## Steps
 ```sh
