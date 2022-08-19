@@ -23,7 +23,7 @@ lib
 client.py
 ```
 
-## Workspace in client
+## Workspace in server
 ```sh
 pygen
 lib
