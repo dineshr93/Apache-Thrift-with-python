@@ -10,6 +10,7 @@
 2 add to the Environpath
 3 thrift files from https://thrift.apache.org/tutorial/py.html
 4 do "thrift -r --gen py tutorial.thrift" it will create py-gen
+4.1 do "thrift -r --gen java tutorial.thrift" it will create gen-java folder https://thrift.apache.org/tutorial/java.html
 
 5 pip install thrift
 6 do "py setup.py build" inside ->thrift-0.9.3/lib/py to get build folder. Then Copy lib folder into workspace  
